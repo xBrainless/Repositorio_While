@@ -6,10 +6,10 @@
 carrinho = []
 
 while True:
-    produto = input('Digite a porra do produto: ')
+    produto = input('Digite o nome do produto: ')
     if not produto:
         break
-    quantidade = int(input('E a quantidade? '))
+    quantidade = int(input('E também a quantidade? '))
     adicionar = [produto, quantidade]
     carrinho.append(adicionar)
 
