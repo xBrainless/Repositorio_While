@@ -1,5 +1,6 @@
 # Repositorio_While
- testando git
+Apenas o começo dos meus estudos aprendendo a base da linguagem Python
+
 
 ##EXERCICIO 1
 
